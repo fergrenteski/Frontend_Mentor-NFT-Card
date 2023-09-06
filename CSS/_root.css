@@ -7,16 +7,17 @@
   --color-card: hsl(216, 50%, 16%);
   --color-line: hsl(215, 32%, 27%);
   --color-white: hsl(0, 0%, 100%);
+  --color-soft-blue: hsl(215, 51%, 70%);
+  --color-cyan: hsl(178, 100%, 50%);
 
   /* Font */
   --font-size-base: 18px;
-  --font-size-xs: 11px;
-  --font-size-sm: 15px;
-  --font-size-lg: 17px;
+  --font-size-sm: 12px;
+  --font-size-lg: 16px;
   --font-weight-bold: 600;
   --font-weight-normal: 400;
   --font-weight-light: 300;
-  --font-letter-spacing-wide: 2px;
+  --font-letter-spacing-wide: 1px;
 
   /* Border */
   --rounded-sm: 0.5rem;
